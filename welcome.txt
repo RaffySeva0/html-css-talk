@@ -1,3 +1,5 @@
 Welcome to this repository
 
 You can see our code here from the talk!
+
+Feel free to clone this repository and check our code :)
