@@ -1,0 +1,146 @@
+/**
+ * TABSLET START
+ *
+ * -------------------------------------------------------------------------------------------------
+ */
+.tabs ul {
+	padding-left: 0 !important;
+}
+.tabs > DIV {
+	/*border-top: 1px solid #c7c7c7*/
+	/*margin-top: 10px;
+  background: white !important;*/
+	/*border-bottom: 4px solid #E95855 !important;*/
+}
+
+/*.tabs > DIV SPAN:not(.delivery-grid-span) {
+  border-bottom: 4px solid #E5E5E5 !important;
+  color: #ccc !important;
+  font-weight: 300;
+  line-height: 186px !important;
+  display: block;
+  text-align: center;
+  font-size: 24px;
+}*/
+
+.tabs UL.horizontal {
+	/*list-style: none outside none;*/
+	/*margin: 0;*/
+}
+
+.tabs .tabslet-tabs {
+	background: white;
+	border-bottom: 4px solid #e5e5e5;
+	margin: 0 10px 0 0;
+	display: inline-block;
+	height: 60px;
+}
+
+.tabs .tabslet-tabs A:not(.btn) {
+	color: #ccc;
+	display: block;
+	font-size: 18px;
+	font-weight: 300;
+	padding: 14px 24px;
+	text-decoration: none;
+}
+
+.tabslet-tabs:hover {
+	background: #ec8505;
+	border-bottom: 4px solid #a15c06;
+}
+
+.tabs div:not(.dropdown-menu) > LI:hover A {
+	color: white;
+}
+
+.tabs ul .active {
+	background: #ec8505 !important;
+	border-bottom: 4px solid #a15c06 !important;
+}
+
+.tabs .active A {
+	color: white !important;
+}
+
+.link {
+	color: white;
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	line-height: 48px;
+	margin-top: 20px;
+	margin-left: 6px;
+	text-decoration: none;
+}
+
+.link:hover {
+	text-decoration: underline;
+	color: inherit;
+}
+
+.anchorLink {
+	border-bottom: 1px dashed white;
+	color: white;
+	text-decoration: none;
+}
+
+.anchorLink:hover {
+	text-decoration: none;
+	border-bottom: none;
+	color: inherit;
+}
+
+.screenshot {
+	position: absolute;
+	clip: rect(0 0 0 0);
+}
+
+.prev,
+.next {
+	background: white !important;
+	color: #a0cac0 !important;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.prev:hover,
+.next:hover {
+	background: #a0cac0 !important;
+	color: white !important;
+}
+/*TABSLET END*/
+
+/*REMOVE TABS BUTTON START*/
+.btnRemoveItems {
+	position: relative;
+	left: 130px;
+	bottom: 30px;
+	/*z-index: 1000;*/
+	padding: 0;
+	border-radius: 32px;
+}
+
+.btnRemoveItems svg {
+	font-size: 30px;
+}
+/*REMOVE TABS BUTTON START*/
+
+/*CUSTOM BUTTONS START*/
+.btn-orange {
+	color: #fff;
+ 	background-color: #e7851c;
+ 	border-color: #e7851c;
+}
+/*CUSTOM BUTTONS END*/
+
+/*CUSTOM DIV BACKGROUNDS START*/
+.bg-orange {
+ 	background-color: #e7851c !important;
+}
+/*CUSTOM DIV BACKGROUNDS END*/
+
+.proof-of-employment-status {
+	font-size: 35px;
+}
