@@ -1,0 +1,31 @@
+/* general */
+div {
+  border: 1px solid brown;
+  margin: 50px 0;
+}
+
+/* padding-top */
+#padding-top {
+  padding-top: 100px;
+}
+
+/* padding-right */
+#padding-right {
+  padding-right: 50px;
+}
+
+/* padding-bottom */
+#padding-bottom {
+  padding-bottom: 50px;
+}
+
+/* padding-left */
+#padding-left {
+  padding-left: 50px;
+}
+
+/* padding */
+#padding {
+  /* padding: 250px 250px; */
+  padding: 100px;
+}
